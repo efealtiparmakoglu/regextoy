@@ -1,0 +1,8 @@
+{
+  "name": "regextoy",
+  "version": "1.0.0",
+  "description": "A from-scratch regex engine: NFA construction, backtracking matcher, capture groups",
+  "license": "MIT",
+  "bin": { "regextoy": "src/regextoy.js" },
+  "scripts": { "test": "node --test tests/" }
+}
